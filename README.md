@@ -3,9 +3,9 @@ Demonstração de consumo do web service dos correios para consulta de CEP utili
 
 #Tecnologias:
 
-Microsoft C#
-Windows Forms
-Visual Studio 2017
+Microsoft C#,
+Windows Forms,
+Visual Studio 2017 e 
 WebServices Correios
 
 
